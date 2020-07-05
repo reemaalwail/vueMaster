@@ -16,5 +16,5 @@ Summary vuejs
 
 <img width="688" alt="‏لقطة الشاشة ٢٠٢٠-٠٧-٠٥ في ١٢ ٣٣ ٣٧ م" src="https://user-images.githubusercontent.com/38152937/86540661-cf0b2f80-bebb-11ea-9a93-aa558dffb930.png">
 
+<img width="616" alt="‏لقطة الشاشة ٢٠٢٠-٠٧-٠٥ في ١٢ ٤٧ ١٨ م" src="https://user-images.githubusercontent.com/38152937/86540994-f19e4800-bebd-11ea-8484-3efc5cd23176.png">
 
-<img width="616" alt="‏لقطة الشاشة ٢٠٢٠-٠٧-٠٥ في ١٢ ٤١ ٤١ م" src="https://user-images.githubusercontent.com/38152937/86540877-0a5a2e00-bebd-11ea-86a6-546b354f9333.png">
